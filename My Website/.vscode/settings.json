@@ -1,0 +1,10 @@
+{
+    "workbench.settings.useSplitJSON": true
+}
+{
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.NoBrowser": false,  // Ensure this is set to false
+    "liveServer.settings.root": "/public"   // Adjust as per your project structure
+  }
+  
